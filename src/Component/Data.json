@@ -1,0 +1,254 @@
+[
+    {
+        "category": "adventure",
+        "title": "Yosemite National Park & Adventure Games (Guided)",
+        "rating": 4.3,
+        "reviews": 371,
+        "discount": "save upto 30% off",
+        "price": 11999,
+        "imageQuery": "photo-1606820854416-439b3305ff39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dG91cnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "category": "jungle",
+        "title": "Maldives Beach Resort & Spa",
+        "rating": 4.8,
+        "reviews": 412,
+        "discount": "save upto 20% off",
+        "price": 15999,
+        "imageQuery": "photo-1569949381669-ecf31ae8e613?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG91cnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "category": "lake",
+        "title": "Panama Lake",
+        "rating": 4.3,
+        "reviews": 371,
+        "discount": "save upto 30% off",
+        "price": 11999,
+        "imageQuery": "photo-1528127269322-539801943592?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8dG91cnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "category": "trking",
+        "title": "Maldives Beach Resort & Spa",
+        "rating": 4.8,
+        "reviews": 412,
+        "discount": "save upto 20% off",
+        "price": 15999,
+        "imageQuery": "photo-1541300613939-71366b37c92e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "lake",
+        "title": "Rocky Mountain National Park & Hiking Tour",
+        "rating": 4.5,
+        "reviews": 287,
+        "discount": "save upto 25% off",
+        "price": 13999,
+        "imageQuery": "photo-1595171250566-ed072c43574b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "adventure",
+        "title": "Amazon Rainforest Exploration & Wildlife Safari",
+        "rating": 4.9,
+        "reviews": 521,
+        "discount": "save upto 15% off",
+        "price": 24999,
+        "imageQuery": "photo-1600255940563-4a5d529db05d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "jungle",
+        "title": "Costa Rica Eco Adventure & Zip Line Tour",
+        "rating": 4.7,
+        "reviews": 396,
+        "discount": "save upto 20% off",
+        "price": 17999,
+        "imageQuery": "photo-1585915597014-a9a40b42645d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "trking",
+        "title": "Kilimanjaro Summit Trekking Expedition",
+        "rating": 4.6,
+        "reviews": 449,
+        "discount": "save upto 30% off",
+        "price": 29999,
+        "imageQuery": "photo-1500981458086-b8a11cd163af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "adventure",
+        "title": "Patagonia Glacier Trek & Ice Climbing Expedition",
+        "rating": 4.6,
+        "reviews": 312,
+        "discount": "save upto 30% off",
+        "price": 27999,
+        "imageQuery": "photo-1615277717399-4aaef271c197?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTExfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "jungle",
+        "title": "Borneo Rainforest Wildlife Safari",
+        "rating": 4.8,
+        "reviews": 389,
+        "discount": "save upto 15% off",
+        "price": 16999,
+        "imageQuery": "photo-1611751723600-08208c9cb12c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE1fHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "lake",
+        "title": "Great Lakes Kayaking & Camping Adventure",
+        "rating": 4.4,
+        "reviews": 246,
+        "discount": "save upto 20% off",
+        "price": 12999,
+        "imageQuery": "photo-1642933591836-5163899d6834?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIzfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "trking",
+        "title": "Nepal Everest Base Camp Trekking Expedition",
+        "rating": 4.9,
+        "reviews": 534,
+        "discount": "save upto 25% off",
+        "price": 31999,
+        "imageQuery": "photo-1596721044352-5725c2c03443?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTMxfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "adventure",
+        "title": "Galapagos Islands Wildlife Discovery Tour",
+        "rating": 4.7,
+        "reviews": 421,
+        "discount": "save upto 20% off",
+        "price": 18999,
+        "imageQuery": "photo-1572177463093-57a9d9c2dd2c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM2fHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "jungle",
+        "title": "Amazon Rainforest Canopy Walk & Bird Watching",
+        "rating": 4.5,
+        "reviews": 376,
+        "discount": "save upto 15% off",
+        "price": 15999,
+        "imageQuery": "premium_photo-1718146017931-d0ad3e4f6879?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTQ1fHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "lake",
+        "title": "Canadian Rockies Hiking & Camping Expedition",
+        "rating": 4.6,
+        "reviews": 412,
+        "discount": "save upto 30% off",
+        "price": 24999,
+        "imageQuery": "photo-1642069695904-528045db6443?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTU0fHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "trking",
+        "title": "Machu Picchu Inca Trail Trekking Adventure",
+        "rating": 4.8,
+        "reviews": 498,
+        "discount": "save upto 25% off",
+        "price": 28999,
+        "imageQuery": "photo-1559827406-9078e584bcac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTYzfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "adventure",
+        "title": "Safari Tour in Serengeti National Park",
+        "rating": 4.9,
+        "reviews": 572,
+        "discount": "save upto 30% off",
+        "price": 29999,
+        "imageQuery": "photo-1526662344490-e5707c430f5d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTcwfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "jungle",
+        "title": "Costa Rica Rainforest Canopy Zip Line Adventure",
+        "rating": 4.7,
+        "reviews": 431,
+        "discount": "save upto 20% off",
+        "price": 17999,
+        "imageQuery": "photo-1657618407917-b8a47738cc39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc4fHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "lake",
+        "title": "Norwegian Fjords Kayaking & Wildlife Expedition",
+        "rating": 4.5,
+        "reviews": 367,
+        "discount": "save upto 25% off",
+        "price": 21999,
+        "imageQuery": "photo-1668549829956-d668e768f472?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg2fHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "trking",
+        "title": "Annapurna Circuit Trekking Adventure",
+        "rating": 4.7,
+        "reviews": 489,
+        "discount": "save upto 20% off",
+        "price": 18999,
+        "imageQuery": "photo-1669046636600-aafabe92e617?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "adventure",
+        "title": "Alaskan Wilderness Survival Expedition",
+        "rating": 4.4,
+        "reviews": 298,
+        "discount": "save upto 15% off",
+        "price": 16999,
+        "imageQuery": "photo-1669111958117-6f3d7c57abc1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjAwfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "jungle",
+        "title": "Peruvian Amazon Rainforest Wildlife Safari",
+        "rating": 4.8,
+        "reviews": 412,
+        "discount": "save upto 25% off",
+        "price": 26999,
+        "imageQuery": "photo-1669046636600-aafabe92e617?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "lake",
+        "title": "Swiss Alps Hiking & Chalet Experience",
+        "rating": 4.6,
+        "reviews": 387,
+        "discount": "save upto 20% off",
+        "price": 18999,
+        "imageQuery": "photo-1595171250566-ed072c43574b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "trking",
+        "title": "Himalayan Mountain Expedition",
+        "rating": 4.9,
+        "reviews": 542,
+        "discount": "save upto 30% off",
+        "price": 32999,
+        "imageQuery": "photo-1595171250566-ed072c43574b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "adventure",
+        "title": "African Safari Tour in Maasai Mara",
+        "rating": 4.7,
+        "reviews": 421,
+        "discount": "save upto 20% off",
+        "price": 19999,
+        "imageQuery": "photo-1595171250566-ed072c43574b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHRvdXJ8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+        "category": "jungle",
+        "title": "Indonesian Rainforest Exploration",
+        "rating": 4.5,
+        "reviews": 376,
+        "discount": "save upto 15% off",
+        "price": 15999,
+        "imageQuery": "photo-1669046636600-aafabe92e617?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHx0b3VyfGVufDB8fDB8fHww"
+    },
+    {
+        "category": "lake",
+        "title": "New Zealand Fiordland Kayaking & Wilderness Camping",
+        "rating": 4.8,
+        "reviews": 412,
+        "discount": "save upto 25% off",
+        "price": 25999,
+        "imageQuery": "photo-1569949381669-ecf31ae8e613?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dG91cnxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "category": "trking",
+        "title": "K2 Base Camp Trekking Expedition",
+        "rating": 4.9,
+        "reviews": 498,
+        "discount": "save upto 30% off",
+        "price": 34999,
+        "imageQuery": "photo-1669046636600-aafabe92e617?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHx0b3VyfGVufDB8fDB8fHww"
+    }
+]
