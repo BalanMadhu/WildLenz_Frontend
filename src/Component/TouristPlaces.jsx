@@ -29,7 +29,7 @@ export function TouristPlaces (){
           {places.map((place, index) => (
             <div key={index} className='col-lg-4 col-md-6 mb-4'>
               <div className="showcase">
-                <a href="#" className="travel-card">
+                <div className="travel-card">
                   <div className="image">
                     <img src={`https://images.unsplash.com/${place.imageQuery}`} alt={place.title} />
                   </div>
@@ -51,7 +51,7 @@ export function TouristPlaces (){
                       <div className="original-price">INR {place.price}</div>
                     </div>
                   </div>
-                </a>
+                </div>
               </div>
             </div>
           ))}
